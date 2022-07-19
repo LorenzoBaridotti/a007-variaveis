@@ -1,9 +1,9 @@
-let nome 
+let nome
 let idade
 
 console.log (typeof nome, typeof idade)
 
-//nome será string pois se trata de texto e idade number pois se trata de um numero
+//undefined foi impresso pois nãoa tribui valor as variáveis
 
 nome = prompt ('qual seu nome?')
 idade = +prompt ("quantos anos vc tem?")
