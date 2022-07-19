@@ -1,6 +1,6 @@
 let A = 10
 let B = 25
-let C = null
+let C
 
 C = A
 A = B
