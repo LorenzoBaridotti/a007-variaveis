@@ -1,5 +1,5 @@
-let nome = "null"
-let idade = 0
+let nome 
+let idade
 
 console.log (typeof nome, typeof idade)
 
